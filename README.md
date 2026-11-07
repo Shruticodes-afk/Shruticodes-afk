@@ -21,10 +21,5 @@
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,supabase,git,github,vscode" />
 </p>
 
-## GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shruticodes-afk&show_icons=true&theme=dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shruticodes-afk&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
