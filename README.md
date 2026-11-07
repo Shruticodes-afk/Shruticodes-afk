@@ -25,12 +25,22 @@
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,supabase,tailwind,git,github,vscode" />
 </p>
 
-## LeetCode Progress
-<p align="center">
-  <a href="https://leetcode.com/Shruticodes-afk">
-    <img src="https://leetcard.jacoblin.cool/Shruticodes-afk?theme=dark&font=Fira_Code&ext=heatmap" />
-  </a>
-</p>
+## 📈 Coding Progress
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://leetcode.com/Shruticodes-afk">
+        <img src="https://leetcard.jacoblin.cool/Shruticodes-afk?theme=dark&font=Fira_Code&ext=heatmap" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.codechef.com/users/paavbhaaji">
+        <img src="codechef-card.svg" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Contest Rating
 <p align="center">
