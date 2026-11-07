@@ -45,4 +45,20 @@
   <img src="leetcode-contest.svg" width="700" />
 </p>
 
+## 🚀 Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Shruticodes-afk/safe-zones-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shruticodes-afk&repo=safe-zones-app&theme=dark&hide_border=true" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Shruticodes-afk/agentic-devs-hub">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shruticodes-afk&repo=agentic-devs-hub&theme=dark&hide_border=true" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
