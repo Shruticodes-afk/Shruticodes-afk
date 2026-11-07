@@ -41,8 +41,6 @@
     </td>
   </tr>
 </table>
-
-## Contest Rating
 <p align="center">
   <img src="leetcode-contest.svg" width="700" />
 </p>
