@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=LOCKED%20IN&fontSize=90&fontAlignY=40&animation=fadeIn" width="100%"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Consistency+beats+motivation;1+problem+a+day;No+excuses" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff0000,100:8b00ff&height=300&section=header&text=LOCKED%20IN&fontSize=90&fontColor=ffffff&stroke=ff0000&strokeWidth=3&animation=twinkling&fontAlignY=45" width="100%"/>
 
 ## Hi, I'm Shruti 👋
 
