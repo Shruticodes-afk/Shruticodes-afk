@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:0044ff&height=250&section=header&text=LOCKED%20IN&fontSize=80&fontColor=ffffff&fontAlignY=40&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:1a1a2e,100:e94560&height=250&section=header&text=LOCKED%20IN&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 ## Hi, I'm Shruti 👋
 
