@@ -11,9 +11,9 @@
   </a>
 </p>
 
-## LeetCode Stats
+## Contest Rating
 <p align="center">
   <a href="https://leetcode.com/Shruticodes-afk">
-    <img src="https://leetcard.jacoblin.cool/Shruticodes-afk?theme=dark&font=Fira_Code" />
+    <img src="https://leetcard.jacoblin.cool/Shruticodes-afk?theme=dark&font=Fira_Code&ext=contest" />
   </a>
 </p>
