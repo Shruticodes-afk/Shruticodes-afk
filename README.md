@@ -45,3 +45,25 @@
   <img src="leetcode-contest.svg" width="700" />
 </p>
 
+## 🚀 Projects
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Shruticodes-afk/YOUR_REPO_1">Safe Zones App</a></h3>
+      <p>Women's safety app with a live map of safe zones.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Shruticodes-afk/YOUR_REPO_2">Agentic Devs Collective Hub</a></h3>
+      <p>Community hub for developers building with AI agents.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
