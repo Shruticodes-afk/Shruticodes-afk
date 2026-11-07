@@ -1,4 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:434343&height=220&section=header&text=LOCKED%20IN&fontSize=80&fontColor=ffffff&fontAlignY=50&animation=blink" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:8b00ff&height=150&section=header" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=55&duration=2500&pause=2000&color=FF2D2D&center=true&vCenter=true&width=800&height=100&lines=LOCKED+IN" />
+</p>
+
 ## Hi, I'm Shruti 👋
 
 - 🎓 B.Tech student at **Galgotias University**
