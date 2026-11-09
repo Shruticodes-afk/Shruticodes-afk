@@ -5,7 +5,7 @@
 
 - 🎓 B.Tech student at **Galgotias University**
 - 💻 Building full-stack projects with **Next.js** and **Supabase**
-- 🌱 Currently solving **DSA** in **C++** on LeetCode
+- 🌱 Currently solving **DSA** in **C++** 
 - 🏆 Hackathon participant, including **Smart India Hackathon**
 
 <p align="center">
