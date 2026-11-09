@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:8b00ff&height=150&section=header" width="100%"/>
-
 
 ## Hi, I'm Shruti 👋
 
@@ -43,4 +41,3 @@
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
