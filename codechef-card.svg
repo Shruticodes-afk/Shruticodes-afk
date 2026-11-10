@@ -14,17 +14,17 @@
   <line x1="250" y1="92" x2="250" y2="222" stroke="#2a2a2a"/>
 
   <text x="274" y="104" fill="#9a9a9a" font-size="12">DSA Rating</text>
-  <text x="274" y="148" fill="#ffa116" font-size="42">1302</text>
-  <text x="274" y="170" fill="#8a8a8a" font-size="11">Highest 1302</text>
+  <text x="274" y="148" fill="#ffa116" font-size="42">1330</text>
+  <text x="274" y="170" fill="#8a8a8a" font-size="11">Highest 1330</text>
   <text x="274" y="194" fill="#d0d0d0" font-size="12">Global   #19,981</text>
   <text x="274" y="214" fill="#d0d0d0" font-size="12">Country  #19,640</text>
 
   <line x1="24" y1="240" x2="476" y2="240" stroke="#2a2a2a"/>
 
   <text x="24" y="268" fill="#9a9a9a" font-size="12">Problems Solved</text>
-  <text x="24" y="298" fill="#ffffff" font-size="24">72</text>
+  <text x="24" y="298" fill="#ffffff" font-size="24">74</text>
   <text x="200" y="268" fill="#9a9a9a" font-size="12">Contests</text>
   <text x="200" y="298" fill="#ffffff" font-size="24">4</text>
   <text x="330" y="268" fill="#9a9a9a" font-size="12">DSA Contests</text>
-  <text x="330" y="298" fill="#ffffff" font-size="24">5</text>
+  <text x="330" y="298" fill="#ffffff" font-size="24">6</text>
 </svg>
