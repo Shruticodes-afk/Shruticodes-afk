@@ -4,7 +4,6 @@
 - 🎓 B.Tech student at **Galgotias University**
 - 💻 Building full-stack projects with **Next.js** and **Supabase**
 - 🌱 Currently solving **DSA** in **C++** 
-- 🏆 Hackathon participant, including **Smart India Hackathon**
 
 <p align="center">
   <a href="mailto:noharashinchan590@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
