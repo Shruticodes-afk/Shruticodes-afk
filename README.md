@@ -39,11 +39,5 @@
   <img src="leetcode-contest.svg" width="700" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shruticodes-afk&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shruticodes-afk&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
-</p>
 
 
