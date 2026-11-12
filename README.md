@@ -1,5 +1,5 @@
 
-## Hi, I'm Shruti 👋
+## Hello, I'm Shruti 👋
 
 - 🎓 B.Tech student at **Galgotias University**
 - 💻 Building full-stack projects with **Next.js** and **Supabase**
