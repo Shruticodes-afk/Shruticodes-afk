@@ -6,7 +6,6 @@
 - 🌱 Currently solving **DSA** in **C++** 
 
 <p align="center">
-  <a href="mailto:noharashinchan590@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shruti-yadav-566406362"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Shruticodes-afk"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/Shruticodes-afk"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
