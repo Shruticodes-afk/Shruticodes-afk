@@ -1,20 +1,20 @@
 {
   "leetcode": {
-    "rating": 1292,
-    "global_rank": 868028,
-    "total": 893251,
-    "attended": 3,
-    "top": 97.22
+    "rating": 1270,
+    "global_rank": 876402,
+    "total": 894294,
+    "attended": 5,
+    "top": 98.03
   },
   "codechef": {
-    "rating": 767,
+    "rating": 736,
     "highest": 788,
     "stars": 1,
     "div": 4,
     "global_rank": 191355,
     "country_rank": 185873,
-    "solved": 89,
-    "contests": 5,
+    "solved": 92,
+    "contests": 6,
     "dsa_rating": 1342,
     "dsa_highest": 1342,
     "dsa_global_rank": 19981,
